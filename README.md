@@ -1,4 +1,4 @@
-# <img width="48" height="48" alt="app_logo (小)" src="https://github.com/user-attachments/assets/25dfa733-20f9-41ef-9016-87bf10309bd6" /> Bncr_flutter
+# <img width="48" height="48" alt="app_logo (小)" src="https://github.com/user-attachments/assets/25dfa733-20f9-41ef-9016-87bf10309bd6" /> Bncr_flutter_client
 
 flutter框架写的无界客户端  
 [Bncr](https://anmours.github.io/Bncr) client made with *flutter*  
